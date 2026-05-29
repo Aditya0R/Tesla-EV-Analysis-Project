@@ -1,5 +1,8 @@
 # Tesla EV Data Analysis
 
+## kaggle Notebook link
+https://www.kaggle.com/code/adityarathore117/tesla-ev-data-analysis 
+
 ## Overview
 This project analyzes Tesla EV deliveries and production data from 2015 to 2025.
 
@@ -21,3 +24,5 @@ This project analyzes Tesla EV deliveries and production data from 2015 to 2025.
 
 ## Dataset
 Tesla EV Deliveries and Production Data (2015–2025)
+
+
